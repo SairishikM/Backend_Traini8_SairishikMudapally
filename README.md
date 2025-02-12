@@ -145,18 +145,5 @@ traini8/
 ├── README.md           # Setup & API Documentation
 ```
 
-## How to Run Tests (If Implemented)
-Run unit tests using:
-```sh
-mvn test
-```
 
-## Submission Instructions
-- **GitHub Submission**: Push your code and share the repo link.
-- **Zip Submission**: Compress the project folder and send it via email.
-- Naming Format: **Backend_Traini8_YourName**
-
----
-
-Now, your project is fully documented and ready for submission! 🚀 Let me know if you need any modifications.
 
